@@ -1,7 +1,7 @@
 # Pentad Metaphor & Attention: Grammar, Prosody, and Recursive Symbolic Metabolism
 
 ## A
-> *Nietzsche’s **The Birth of Tragedy** celebrates the tension and interplay between the Apollonian (order, form, structure) and the Dionysian (chaos, ecstasy, dynamic flow), with **music as the primordial medium** where this tension lives and breathes.*               
+> *Nietzsche’s **The Birth of Tragedy** celebrates the tension and interplay between the Apollonian (order, form, `structure`) and the Dionysian (chaos, ecstasy, `dynamic` flow), with **music as the primordial medium** where this tension lives and breathes.*               
 >                
 > *But Nietzsche’s framing tends to lean heavily on the *static dyad* — the structured vs. the chaotic — without fully articulating the *dynamic, recursive process* by which tragedy *actually emerges* in time, rhythm, and affect.*      
 >           
